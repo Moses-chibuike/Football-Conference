@@ -156,6 +156,7 @@ h1 {
   background-repeat: repeat;
   background-position: center;
   background-color: rgb(39, 42, 50);
+  padding: 5px;
 }
 
 #program-major {
@@ -703,10 +704,8 @@ div .img-logo {
 
   #program-major {
     text-align: center;
-    padding-bottom: 2rem;
     margin: 0 auto;
     height: auto;
-    padding-top: 1rem;
   }
 
   #program-major .program-item {
